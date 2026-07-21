@@ -26,23 +26,32 @@
 
 @media (max-width: 768px) {
   .item li {
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
 
-    height: auto;
-    padding: 15px;
+    padding: 10px 14px;
+    min-height: 50px;
+    margin-bottom: 10px;
+  }
+
+  .item li p,
+  .item li del {
+    margin: 0;
+    text-align: left;
+    width: 100%;
+    flex: 1;
   }
 
   .item li div {
-    width: 100%;
     display: flex;
-    justify-content: flex-end;
-    gap: 10px;
+    gap: 4px;
   }
 
   .item button {
-    width: 35px;
-    height: 35px;
+    width: 28px;
+    height: 28px;
+    font-size: 15px;
   }
 }
