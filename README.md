@@ -32,11 +32,11 @@ A responsive Todo App built with **React.js** that helps users manage daily task
 
 ### Desktop View
 
-![Desktop View](./screenshots/todo-desktop.png)
+![Desktop View](./screenshots/todo-desktop.jpg)
 
 ### Mobile View and Local Storage
 
-![Mobile View](./screenshots/todo-mobile.png)
+![Mobile View](./screenshots/todo-mobile.jpg)
 
 ## 🚀 Installation
 
