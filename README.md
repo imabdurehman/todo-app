@@ -36,7 +36,7 @@ A responsive Todo App built with **React.js** that helps users manage daily task
 
 ### Mobile View and Local Storage
 
-![Mobile View](./screenshots/todo-mobile.png)
+![Mobile View](./screenshots/todo-mobile-localstorage.png)
 
 ## 🚀 Installation
 
